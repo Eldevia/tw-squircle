@@ -1,0 +1,14 @@
+{
+  "name": "tw-squircle",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "tailwindcss": "^4.1.17"
+  },
+  "peerDependencies": {
+    "typescript": "^5.9.3",
+    "tailwindcss": "^4.1.17"
+  },
+  "dependencies": {}
+}
