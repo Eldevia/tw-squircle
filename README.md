@@ -1,4 +1,4 @@
-# Tailwind CSS Squircle Utilities
+# [!WIP!] Tailwind CSS Squircle Utilities
 
 A squircle plugin for Tailwind CSS. This package provides a set of predefined `squircle-*` classes that you can use in your project.
 
