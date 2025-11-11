@@ -20,7 +20,7 @@ bun add tw-squircle
 
 ## Usage
 
-To use the plugin, import the `squircles.css` file into your main `tailwind.css` file.
+To use the plugin, import the `tw-squircle` file into your main `tailwind.css` file.
 
 ```css
 @import "tailwindcss";
